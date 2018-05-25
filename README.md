@@ -11,7 +11,8 @@ _This portfolio contains a brief Description of Kyle Parsons life and achievemen
 ## Setup/Installation Requirements
 
 * _a functioning web browser_
-* _enter this link 
+* _enter this link https://owner5563.github.io/portfolio/
+
 
 
 
