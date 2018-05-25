@@ -1,13 +1,12 @@
 body{
-  font-family: monospace;
-  background-color: orange
+font-family: monospace;
 }
 
 .school{
-  margin: 12px;
-  border: 4px solid black;
-  padding: 4px;
-  background-color: silver;
+margin: 12px;
+border: 4px solid black;
+padding: 4px;
+background-color: silver;
 }
 
 .work{
@@ -15,7 +14,19 @@ margin: 12px;
 border: 4px solid black;
 padding: 4px;
 background-color: silver;
+}
 
+.links{
+color: blue
+}
+
+.links ul{
+  font-style: italic;
+}
+
+.Hobbies img{
+  max-height: 500
+  max-width: 500
 
 
 }
